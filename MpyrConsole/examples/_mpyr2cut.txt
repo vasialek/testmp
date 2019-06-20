@@ -1,0 +1,6 @@
+# This pyramid is from original, just cut
+215
+192 124
+117 269 442
+218 836 347 235
+320 805 522 417 345
