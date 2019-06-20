@@ -13,3 +13,6 @@ Only TXT files are displayed to be processed.
 1. Choose **Find MAX path** from menu.
 2. Select any TXT file (they should be located in **examples** directory either enter full name).
 3. Enjoy :)
+
+## Example
+![Example](https://github.com/vasialek/testmp/blob/master/assets/2019-06-20_0907.png)!
