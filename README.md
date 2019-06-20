@@ -5,8 +5,9 @@ Ensure **examples** directory exists in folder.
 Only TXT files are displayed to be processed.
 
 ## Run
-1. Run **MpyrConsole.exe**.
-2. Choose any of menu item.
+- Download ZIP archive with binaries (https://github.com/vasialek/testmp/blob/master/MpyrBinary.zip)
+- Run **MpyrConsole.exe**.
+- Choose any of menu item.
 
 ## Find MAX path to botton
 1. Choose **Find MAX path** from menu.
